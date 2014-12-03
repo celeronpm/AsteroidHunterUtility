@@ -1,13 +1,15 @@
 YappySDK
 ========
 
-As part of the NASA Asteroid Data Hunter TopCoder Challenge, we have had to deep dive into and learn a lot about astronomy. This program opens up a NASA fits file and displays it.
+As part of the NASA Asteroid Data Hunter TopCoder Challenge, we have had to deep dive into and learn a lot about astronomy. 
+
+This program opens up a NASA FITS file as well as asteroid detection files and displays it.
 
 ![alt tag](preview.png)
 
 ## License
 
-    Copyright 2014 Marius Dornean (MariusSoft LLC) + License included in .cs file
+    Copyright 2014 Marius Dornean (MariusSoft LLC) + License included in .cs files
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
